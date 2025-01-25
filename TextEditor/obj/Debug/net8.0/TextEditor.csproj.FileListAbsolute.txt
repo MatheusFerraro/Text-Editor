@@ -1,0 +1,14 @@
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\Users\mathe_eea32t1\OneDrive\Desktop\TrainingC#\TextEditor\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
