@@ -35,6 +35,7 @@ Once the application is running, you can start editing text right away! Here are
 
 4. **Exit**: Close the editor and save your work.
 
+---
 
 ## 📂 Project Structure
 Here's a quick overview of the project structure:
@@ -44,6 +45,11 @@ Text-Editor/
 ├── TextEditor.cs       # Core text editing functionality
 ├── README.md           # You're here! 😊
 └── ...                 # Other project files
+
+
+
+---
+
 
 ## 📚 What I Learned
 - **C# Programming: Improved skills in C# while developing this text editor project. 🖥️**
